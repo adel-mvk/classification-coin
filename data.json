@@ -1,0 +1,45 @@
+[{
+    "title":"Linha Ouro",
+    "desc":"Na categoria Ouro dos produtos seminovos da Webfones, você terá a oportunidade de comprar dispositivos com aparência quase impecável.",
+    "img":"ouroCoin.png",
+    "descs":[{
+        "img":"celFront.png",
+        "text":"Tela: pode apresentar mínimos indícios de uso, como pequenas marcas."
+    },{
+        "img":"celLado.png",
+        "text":"Lateral: podem ter arranhões sutis, mas imperceptíveis."
+    },{
+        "img":"celBack.png",
+        "text":"Traseira: pode exibir marcas discretas de desgaste."
+    }]
+},
+{
+    "title":"Linha Prata",
+    "desc":"Apesar de sinais de uso, os produtos da categoria Prata ainda oferecem ótima qualidade e funcionamento.",
+    "img":"silverCoin.png",
+    "descs":[{
+        "img":"celFront.png",
+        "text":"Tela: evidências sutis de uso, como pequenas marcas."
+    },{
+        "img":"celLado.png",
+        "text":"Lateral: podem exibir ligeiros amassados"
+    },{
+        "img":"celBack.png",
+        "text":"Traseira: Pode apresentar arranhões discretos"
+    }]
+},
+{
+    "title":"Linha Bronze",
+    "desc":"Aparelhos em ótima condição de funcionamento, mas com sinais de uso ou riscos aparentes e nítidos.",
+    "img":"bronzeCoin.png",
+    "descs":[{
+        "img":"celFront.png",
+        "text":"Tela: Apresenta sinais de uso mais evidentes"
+    },{
+        "img":"celLado.png",
+        "text":"Lateral: Amassados, descascados ou arranhões."
+    },{
+        "img":"celBack.png",
+        "text":"Traseira: Riscos ou arranhões perceptíveis."
+    }]
+}]

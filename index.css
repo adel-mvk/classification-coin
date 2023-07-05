@@ -1,0 +1,25 @@
+.root{
+    display: flex;
+    justify-content: center;
+}
+.coin-frist,.coin-second{
+    display: grid;
+    align-items: center;
+    grid-auto-rows: minmax(100px, 100px);
+    justify-content: center;
+    grid-template-columns: 50px 300px;
+}
+.img-coin{
+    width: 68px;
+}
+.all-coin{
+    width: 350px;
+    margin-right: 50px;
+}
+.title-coin{
+    font-weight: 700;
+}
+
+:root p{
+    font-family: Heebo, sans-serif;
+}
