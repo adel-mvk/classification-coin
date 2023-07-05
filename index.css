@@ -8,10 +8,10 @@
     align-items: center;
     grid-auto-rows: minmax(100px, 100px);
     justify-content: center;
-    grid-template-columns: 45px 180px;
+    grid-template-columns: 45px 170px;
 }
-.coin-second{
-    margin-top: 15px;
+.special{
+    margin-top: 25px;
 }
 .img-coin{
     width: 68px;

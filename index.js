@@ -20,7 +20,7 @@ fetch('./data.json')
                     </div>
                 </div>
 
-                <div class='coin-second'>
+                <div class='coin-second special'>
                     <div class='img-coin'>
                         <img  src='./img/${json[x].descs[0].img}'>
                     </div>
