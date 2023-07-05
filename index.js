@@ -1,15 +1,5 @@
 let body = document.getElementById('root')
-{/* <div>
 
-</div>
-<div>
-    <div>
-        <p>Linha Ouro</p>
-    </div>
-    <div>
-        <p>Na categoria Ouro dos produtos seminovos da Webfones, você terá a oportunidade de comprar dispositivos com aparência quase impecável.</p>
-    </div>
-</div> */}
 fetch('./data.json')
     .then((response) => response.json())
     .then((json) => {
